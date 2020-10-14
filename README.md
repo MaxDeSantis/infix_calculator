@@ -1,6 +1,6 @@
 # Description
 
-This project was completed as an honors contract for my CS2433 (C/C++ Programming) course. The Infix evaluation is implemented with a recursive parser that moves through the inputted expression. It cannot handle the order of operations, so parentheses are required to evaluate expressions as intended.
+This project was completed as an honors contract for one of my programming courses. The Infix evaluation is implemented with a recursive parser that moves through the inputted expression. It cannot handle the order of operations, so parentheses are required to evaluate expressions as intended.
 
 # Features
 
